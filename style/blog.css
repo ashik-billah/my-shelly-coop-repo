@@ -1,0 +1,17 @@
+*{
+    margin: 1%;
+    padding: 2%;
+}
+h3{
+    color: chocolate;
+    background-color: cornsilk;
+    text-align: center;
+}
+p{
+    color: aqua;
+    background-color: bisque;
+    text-transform: capitalize;
+}
+ul{
+    display: block;
+}
